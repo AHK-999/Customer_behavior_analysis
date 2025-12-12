@@ -91,3 +91,15 @@ Based on the analysis:
 * Accessories and Clothing categories have the **highest-purchased products**
 * Young Adults contribute the highest revenue among age groups
 
+## 🏁 8. Conclusion
+
+This project demonstrates a complete end-to-end data analytics workflow—from data loading and cleaning in Python, to SQL-based business analysis in PostgreSQL, to visual analytics in Power BI and final reporting through Gamma. The insights uncovered help understand customer behavior across demographics, purchase patterns, discount dependence, and subscription trends.
+
+The interactive dashboard and analytical findings can support decisions around **marketing strategy, customer retention, product performance, and revenue optimization**. Overall, the project reflects strong skills in **Python, SQL, data storytelling, and BI visualization**, suitable for real-world business analytics scenarios.
+
+
+## 📊 9. Power BI Dashboard
+
+Access the interactive dashboard here:
+
+👉 **Power BI Dashboard:** *[https://app.powerbi.com/view?r=eyJrIjoiNTRjMGU2NjYtYmM1My00YzI5LTljNTktNjAwN2M0NjAzZTU4IiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D]*
